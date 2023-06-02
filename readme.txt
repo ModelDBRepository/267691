@@ -36,4 +36,6 @@ Overview of data files:
 5. /data_analysis/soma_coord.dat - x,y,z coordinates of soma for each cell type
 6. /data_analysis/x_axon.dat, y_axon.dat, z_axon.dat - x,y,z coordinates of various axonal compartments for each cell type
 
-   
+Changelog
+---------
+2023-06-01: top-level .mod files updated to be compatible with NEURON 9+
